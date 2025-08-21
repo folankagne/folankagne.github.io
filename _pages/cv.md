@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Economics, Paris School of Economics (starting September 2025)  
+  * Supervisor: Professor Camille Hémet  
+  * Thesis: *The Dynamics of Exclusion and Inclusion in Carceral Environments: Exploring Cooperation and Reintegration*  
 * Master in Economics and Psychology, Paris School of Economics (Paris 1 Panthéon-Sorbonne & Université Paris Cité), 2023 – Present  
   * Key Courses: Advanced Microeconomics, Behavioral Economics, Experimental Economics, Neuroeconomics, Brain Sciences, Cognitive Psychology, Differential Psychology, Social Psychology.  
 * Bachelor’s in Business Engineering, HEC Liège – University of Liège, 2020 – 2023  
@@ -66,6 +68,7 @@ Languages
 * **English:** Proficient  
 * **Arabic:** Beginner  
 
+<!--
 Publications
 ======
 <ul>
@@ -89,3 +92,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
+-->
