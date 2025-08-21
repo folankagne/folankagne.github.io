@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-#### Philosophical Foundations: Racial Realism, Black Male Studies, and the Dehumanization of Black Men
+### Philosophical Foundations: Racial Realism, Black Male Studies, and the Dehumanization of Black Men
 
 <details>
 <summary>Abstract</summary>
@@ -20,7 +20,7 @@ Together, the works of Curry, Fanon, and Ajari provide a comprehensive philosoph
 
 </details>
 
-#### Social Cooperation and Exclusion in Carceral Environments: The Role of Identity and Exclusion in Shaping Prisoner Cooperation
+### Social Cooperation and Exclusion in Carceral Environments: The Role of Identity and Exclusion in Shaping Prisoner Cooperation
 
 <details>
 <summary>Abstract</summary>
@@ -35,7 +35,7 @@ By integrating insights from social psychology, sociology, economics, and philos
 
 </details>
 
-#### Beyond Exclusion: Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings
+### Beyond Exclusion: Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings
 
 <details>
 <summary>Abstract</summary>
@@ -44,7 +44,7 @@ This research explores the impact of social exclusion and social identity on coo
 
 </details>
 
-#### Black Masculinity Under Surveillance: Fanon, Anti-Blackness, and the Global Dynamics of Mass Incarceration
+### Black Masculinity Under Surveillance: Fanon, Anti-Blackness, and the Global Dynamics of Mass Incarceration
 
 <details>
 <summary>Abstract</summary>
@@ -53,7 +53,7 @@ This paper examines mass incarceration’s disproportionate impact on Black male
 
 </details>
 
-#### Philosophie et langues africaines, une introduction
+### Philosophie et langues africaines, une introduction
 
 <details>
 <summary>Abstract</summary>
