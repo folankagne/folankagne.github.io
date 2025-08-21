@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-
 I’m Folan [Cayo Chalance] Kagné, a PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), of Belgian and Cameroonian origin.  
 
 I work under the supervision of [Camille Hémet](https://sites.google.com/site/camillehemet/).  
