@@ -4,8 +4,6 @@ title: "What I’m doing now"
 author_profile: true
 ---
 
-# What I’m doing now
-
 - Starting my PhD journey at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/), working on the dynamics of exclusion and inclusion in prisons.  
 
 - Finishing early drafts of [working projects](/projects/) (and plenty of [marginalia](/year-archive/)) on the philosophy of race and mass incarceration — always happy to discuss these ideas.  
