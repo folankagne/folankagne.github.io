@@ -5,22 +5,25 @@ author_profile: true
 ---
 
 
-### Philosophical Foundations: Racial Realism, Black Male Studies, and the Dehumanization of Black Men
+## Philosophical Foundations: Racial Realism, Black Male Studies, and the Dehumanization of Black Men
 
 <details>
 <summary>Abstract</summary>
 
-This chapter examines the philosophical foundations of Black Male Studies, as developed by Tommy Curry, and its relevance to understanding the dehumanization and marginalization of Black men, particularly within carceral settings. Curry’s work emphasizes the unique vulnerabilities faced by Black men due to their historical and social exclusion from dominant gender and race theories. Critiquing mainstream feminist and racial frameworks, Curry highlights the brutal realities Black men endure, including systemic violence, poverty, sexual exploitation, and exclusion from socio-political structures. Building on racial realism, particularly as articulated by Derrick Bell, the chapter explores how Black men have been historically constructed as threats—physically, economically, and sexually—resulting in their heightened dehumanization in prison systems. Curry’s analysis of the sexualized fear and desire surrounding the Black male body, including the construction of the Black Male Rapist trope, offers a critical lens to understand the homoeroticization of Black male flesh and its violent consequences, such as assault and death.  
+TEST_This chapter examines the philosophical foundations of Black Male Studies, as developed by Tommy Curry, and its relevance to understanding the dehumanization and marginalization of Black men, particularly within carceral settings. Curry’s work emphasizes the unique vulnerabilities faced by Black men due to their historical and social exclusion from dominant gender and race theories. Critiquing mainstream feminist and racial frameworks, Curry highlights the brutal realities Black men endure, including systemic violence, poverty, sexual exploitation, and exclusion from socio-political structures. Building on racial realism, particularly as articulated by Derrick Bell, the chapter explores how Black men have been historically constructed as threats—physically, economically, and sexually—resulting in their heightened dehumanization in prison systems. Curry’s analysis of the sexualized fear and desire surrounding the Black male body, including the construction of the Black Male Rapist trope, offers a critical lens to understand the homoeroticization of Black male flesh and its violent consequences, such as assault and death.  
+
 
 Frantz Fanon’s foundational concepts, including the phobogenic object and the psychological effects of colonization, complement Curry’s work by exploring how colonial frameworks perpetuate the fear and alienation of Black male bodies. These insights illuminate the intersection of racialized masculinity, systemic oppression, and the carceral environment, where Black men’s identities are shaped by simultaneous fear and desire.  
 
+
 Norman Ajari’s contributions further enrich the chapter’s analysis by addressing the existential dimensions of Black male suffering. Ajari’s exploration of the “racial unconscious” within Western philosophy situates Black men in an existential liminality between life and death, highlighting how dehumanization transcends physical violence to affect their very being. His reflections on Black radical pessimism, particularly as developed in Noirceur (2022), reveal how the carceral system perpetuates historical anti-Blackness, reinforcing the conditions that render Black men perpetual outsiders.  
+
 
 Together, the works of Curry, Fanon, and Ajari provide a comprehensive philosophical framework for understanding the structural, psychological, and existential dimensions of Black male dehumanization. This chapter situates these critical perspectives within carceral systems, offering a nuanced analysis of the profound challenges faced by Black male prisoners under systemic oppression. 
 
 </details>
 
-### Social Cooperation and Exclusion in Carceral Environments: The Role of Identity and Exclusion in Shaping Prisoner Cooperation
+## Social Cooperation and Exclusion in Carceral Environments: The Role of Identity and Exclusion in Shaping Prisoner Cooperation
 
 <details>
 <summary>Abstract</summary>
@@ -35,7 +38,7 @@ By integrating insights from social psychology, sociology, economics, and philos
 
 </details>
 
-### Beyond Exclusion: Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings
+## Beyond Exclusion: Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings
 
 <details>
 <summary>Abstract</summary>
@@ -44,7 +47,7 @@ This research explores the impact of social exclusion and social identity on coo
 
 </details>
 
-### Black Masculinity Under Surveillance: Fanon, Anti-Blackness, and the Global Dynamics of Mass Incarceration
+## Black Masculinity Under Surveillance: Fanon, Anti-Blackness, and the Global Dynamics of Mass Incarceration
 
 <details>
 <summary>Abstract</summary>
@@ -53,7 +56,7 @@ This paper examines mass incarceration’s disproportionate impact on Black male
 
 </details>
 
-### Philosophie et langues africaines, une introduction
+## Philosophie et langues africaines, une introduction
 
 <details>
 <summary>Abstract</summary>
