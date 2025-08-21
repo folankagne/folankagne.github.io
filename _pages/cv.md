@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+You can find the PDF of my latest CV [here](/files/CV_KagnéFolan_June2025.pdf).
+
 {% include base_path %}
 
 Education
@@ -14,13 +16,9 @@ Education
 * Ph.D. in Economics, Paris School of Economics (starting September 2025)  
   * Supervisor: Professor Camille Hémet  
   * Thesis: *The Dynamics of Exclusion and Inclusion in Carceral Environments: Exploring Cooperation and Reintegration*  
-* Master in Economics and Psychology, Paris School of Economics (Paris 1 Panthéon-Sorbonne & Université Paris Cité), 2023 – Present  
-  * Key Courses: Advanced Microeconomics, Behavioral Economics, Experimental Economics, Neuroeconomics, Brain Sciences, Cognitive Psychology, Differential Psychology, Social Psychology.  
+* Master in Economics and Psychology, Paris School of Economics (Paris 1 Panthéon-Sorbonne & Université Paris Cité), 2023 – 2025  
 * Bachelor’s in Business Engineering, HEC Liège – University of Liège, 2020 – 2023  
-  * Graduated with great distinction (*Magna cum laude*).  
-  * Key Courses: Linear Algebra, Engineering Mathematics, Physics, Computer Science, Econometrics, Financial Analysis, Statistics, Operations Research, Public Law, Corporate Law, Tax Law.  
 * Exchange Semester, Kyung Hee University – College of Business Administration, Seoul, Korea, 2022 – 2023  
-  * Attained the highest grade of the semester.  
 
 Experience
 ======
@@ -28,15 +26,9 @@ Experience
   * Worked under Camille Hémet on data analysis, cleaning, and research tasks.  
   * Project conducted within the City and Social Cohesion research unit, focusing on Labour & Public Economics, Social Cohesion, and Justice.  
 
-* Mathematics Teacher, Municipality of Ans & Social Services of Liège, Belgium — July 2020 – Present  
+* Mathematics Teacher, Municipality of Bagneux, Ans & Social Services of Liège, Belgium — July 2020 – present  
   * Taught mathematics to primary and secondary students.  
   * Worked as both self-employed and volunteer teacher.  
-
-* Fashion Reseller & Personal Shopper, Self-employed, Liège, Belgium — July 2017 – Present  
-  * Curated and sold high-quality fashion items.  
-
-* Volunteer Worker, International Red Cross, Jalhay, Belgium — Summers 2020–2021  
-  * Worked as a multi-purpose worker in the migrant reception center.  
 
 Research Projects
 ======
