@@ -26,4 +26,4 @@ I am deeply interested in philosophy, sociology, literature, political science, 
 - [Projects](/working-projects/)  
 - [Marginalia](/year-archive/)  
 - [What I’m doing now](/now/)  
-- [CV](/files/CV_KagnéFolan_June2025.pdf)  
+- [CV](/cv/)  
