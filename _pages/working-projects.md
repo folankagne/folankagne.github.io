@@ -56,7 +56,7 @@ This paper examines mass incarceration’s disproportionate impact on Black male
 
 </details>
 
-## Philosophie et langues africaines, une introduction
+## Philosophies et langues africaines, une introduction
 
 <details>
 <summary>Abstract</summary>
