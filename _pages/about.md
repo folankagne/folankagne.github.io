@@ -11,8 +11,7 @@ I’m Folan [Cayo Chalance] Kagné, a Belgian-Cameroonian PhD student at the [Pa
 working under the supervision of [Camille Hémet](https://sites.google.com/site/camillehemet/). 
 -->
 
-I’m Folan [Cayo Chalance] Kagné, of Belgian and Cameroonian origin. I am a first-year PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and the [Sorbonne Economics Centre (CES)](https://centredeconomiesorbonne.cnrs.fr/), working under the supervision of [Camille Hémet](https://sites.google.com/site/camillehemet/).
-
+I’m Folan [Cayo Chalance] Kagné, of Belgian and Cameroonian origin. I am a first-year PhD student at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and the [Doctoral School of Economics Panthéon-Sorbonne (EPS)](https://ed-economie.pantheonsorbonne.fr/), working under the supervision of [Camille Hémet](https://sites.google.com/site/camillehemet/). 
 
 Previously, I completed a Master’s in Economics and Psychology at the Paris School of Economics, co-accredited by [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/) and [Université Paris Cité](https://u-paris.fr/), where I specialized in the intersection of economic theory and psychological sciences.
 
