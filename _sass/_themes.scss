@@ -102,4 +102,44 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
+
+
+/* ==========================================================================
+   POST CONTENT STYLING
+   ========================================================================== */
+
+/* Justify all paragraphs in posts, keep headings left-aligned */
+article,
+.post__content,
+.page__content {
+  text-align: justify;       // Justify all post text
+  text-justify: inter-word;  // Better spacing between words
+}
+
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6,
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.page-content h4,
+.page-content h5,
+.page-content h6 {
+  text-align: left;          // Keep all headings left-aligned
+}
+
+/* Optional: keep blockquotes left-aligned */
+blockquote {
+  text-align: left;
+  margin-left: 1em;
+  margin-right: 1em;
+}
