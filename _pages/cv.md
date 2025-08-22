@@ -32,12 +32,10 @@ Experience
 
 Research Projects
 ======
-* **Master 1 Thesis (2024):** *Beyond Exclusion*  
-  * Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings.  
+* **Master 1 Thesis (2024):** *Beyond Exclusion: Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings*    
   * Supervised by Professor Camille Hémet (PSE, Paris 1, Paris Cité).  
 
-* **Master 2 Thesis (2025):** *Social Cooperation and Exclusion in Carceral Environments*  
-  * Investigating the role of identity and exclusion in shaping prisoner cooperation.  
+* **Master 2 Thesis (2025):** *Social Cooperation and Exclusion in Carceral Environments: Investigating the role of identity and exclusion in shaping prisoner cooperation*   
   * Supervised by Professor Camille Hémet (PSE, Paris 1, Paris Cité).  
 
 Awards
