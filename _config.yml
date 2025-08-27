@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Folan Kagné" # Folan Cayo C. Kagné
 title_separator          : "-"
-name                     : &name "Folan Cayo C. Kagné"
+name                     : &name "Folan Kagné" # Folan Cayo C. Kagné
 description              : &description "personal webiste"
 url                      : https://folankagne.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "folankagne.github.io"
 author:
   # Biographic information
   avatar           : "SOZYONE-INVISIBLE.png"
-  name             : "Folan Kagné" # Folan Cayo C. Kagné
+  name             : "Folan Cayo C. Kagné" # Folan Cayo C. Kagné
   pronouns         : # example: "she/her"  
   bio              : "PhD student at PSE"
   location         : "Paris"
