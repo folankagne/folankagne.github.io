@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Folan Cayo C. Kagné"
+title                    : "Folan Kagné" # Folan Cayo C. Kagné
 title_separator          : "-"
 name                     : &name "Folan Cayo C. Kagné"
 description              : &description "personal webiste"
