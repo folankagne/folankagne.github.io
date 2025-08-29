@@ -29,7 +29,7 @@ author:
   location         : "Paris"
   employer         : "Paris School of Economics"
   uri              : # URL
-  email            : "folan.kagne@psemail.eu" 
+  email            : "folan.kagne@psemail.eu" #folan[dot]kagne[at]psemail[dot]eu
 
   # Academic websites
   academia         : # URL
