@@ -4,8 +4,32 @@ title: "Projects – Works in Progress"
 author_profile: true
 ---
 
+## Econ-ish Work
 
-## Philosophical Foundations: Racial Realism, Black Male Studies, and the Dehumanization of Black Men
+### Social Cooperation and Exclusion in Carceral Environments
+
+<details>
+<summary>Abstract</summary>
+
+Over 11.5 million people are incarcerated globally, with the French prison system facing acute challenges such as overcrowding, poor conditions, and high recidivism. While prisons are meant to punish, deter, rehabilitate, and incapacitate, their reliance on isolation may undermine the social and psychological conditions necessary for reintegration. Despite their importance, these behavioral and psychological dimensions remain underexplored.<br><br>
+This thesis takes an interdisciplinary approach to examine how social exclusion and social identity affect cooperative behavior among incarcerated individuals. An original experiment was conducted in a French Maison Centrale, combining a public goods game, social inclusion priming, and qualitative interviews. The mixed 2×2 design includes a within-subjects manipulation of social identity (inmates play with in-group vs. out-group members) and a between-subjects priming task (inclusion vs. control). Semi-structured interviews followed to collect psychosocial data and to explore inmates’ experiences of exclusion, identity, and belonging. <br><br>
+The findings challenge the notion of a unified “criminal brotherhood,” as no significant ingroup bias was observed in cooperative behavior. However, social inclusion priming increased cooperation toward out-group members, suggesting that even minimal psychological interventions can foster prosociality toward the out-group. Exploratory analyses further highlight the negative impact of prolonged incarceration on trust and cooperation, aligning with emerging theories of institutionalized social exclusion. <br><br>
+Although constrained by sample size and the specificity of the setting, this research aims to provide novel insights into the psychosocial effects of incarceration. By illuminating the complex interplay between exclusion, identity, and cooperation, the thesis contributes to the broader goal of enhancing rehabilitation efforts.<br><br>
+
+</details>
+
+### Beyond Exclusion: Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings
+
+<details>
+<summary>Abstract</summary>
+
+This research explores the impact of social exclusion and social identity on cooperation through a three-stage experimental design. In the early stages, participants established their group identity on the basis of their preferences for abstract paintings. The first experimental stage involved symmetrical and asymmetrical one- shot prisoner’s dilemma (PD) games, revealing that cooperation rates were higher in the asymmetrical PD, despite the unchanged Nash equilibrium favoring defection. The concept of the “veil of ignorance” could explain this increased cooperation, by promoting empathy between participants. The second experimental stage, a public goods game, showed that prior social exclusion led to lower contributions, but that strong group identification and internal locus of control mitigated this effect, leading to some increased contributions from the socially excluded individuals. These results highlight the complexity of social exclusion and the important roles of social identity and individual characteristics in cooperative behavior. They pave the way for future field experiments, which should investigate the interaction between these factors to inform policies promoting social cohesion and prosocial behavior.<br><br>
+
+</details>
+
+## Not-So-Econ Work
+
+### Philosophical Foundations: Racial Realism, Black Male Studies, and the Dehumanization of Black Men
 
 <details>
 <summary>Abstract</summary>
@@ -23,28 +47,7 @@ Together, the works of Curry, Fanon, and Ajari provide a comprehensive philosoph
 
 </details>
 
-## Social Cooperation and Exclusion in Carceral Environments: The Role of Identity and Exclusion in Shaping Prisoner Cooperation
-
-<details>
-<summary>Abstract</summary>
-
-Over 11.5 million people are incarcerated globally, with the French prison system facing acute challenges such as overcrowding, poor conditions, and high recidivism. While prisons are meant to punish, deter, rehabilitate, and incapacitate, their reliance on isolation may undermine the social and psychological conditions necessary for reintegration. Despite their importance, these behavioral and psychological dimensions remain underexplored.<br><br>
-This thesis takes an interdisciplinary approach to examine how social exclusion and social identity affect cooperative behavior among incarcerated individuals. An original experiment was conducted in a French Maison Centrale, combining a public goods game, social inclusion priming, and qualitative interviews. The mixed 2×2 design includes a within-subjects manipulation of social identity (inmates play with in-group vs. out-group members) and a between-subjects priming task (inclusion vs. control). Semi-structured interviews followed to collect psychosocial data and to explore inmates’ experiences of exclusion, identity, and belonging. <br><br>
-The findings challenge the notion of a unified “criminal brotherhood,” as no significant ingroup bias was observed in cooperative behavior. However, social inclusion priming increased cooperation toward out-group members, suggesting that even minimal psychological interventions can foster prosociality toward the out-group. Exploratory analyses further highlight the negative impact of prolonged incarceration on trust and cooperation, aligning with emerging theories of institutionalized social exclusion. <br><br>
-Although constrained by sample size and the specificity of the setting, this research aims to provide novel insights into the psychosocial effects of incarceration. By illuminating the complex interplay between exclusion, identity, and cooperation, the thesis contributes to the broader goal of enhancing rehabilitation efforts.<br><br>
-
-</details>
-
-## Beyond Exclusion: Understanding the Complexities of Social Identity and Provision of Public Goods in Experimental Settings
-
-<details>
-<summary>Abstract</summary>
-
-This research explores the impact of social exclusion and social identity on cooperation through a three-stage experimental design. In the early stages, participants established their group identity on the basis of their preferences for abstract paintings. The first experimental stage involved symmetrical and asymmetrical one- shot prisoner’s dilemma (PD) games, revealing that cooperation rates were higher in the asymmetrical PD, despite the unchanged Nash equilibrium favoring defection. The concept of the “veil of ignorance” could explain this increased cooperation, by promoting empathy between participants. The second experimental stage, a public goods game, showed that prior social exclusion led to lower contributions, but that strong group identification and internal locus of control mitigated this effect, leading to some increased contributions from the socially excluded individuals. These results highlight the complexity of social exclusion and the important roles of social identity and individual characteristics in cooperative behavior. They pave the way for future field experiments, which should investigate the interaction between these factors to inform policies promoting social cohesion and prosocial behavior.<br><br>
-
-</details>
-
-## Black Masculinity Under Surveillance: Fanon, Anti-Blackness, and the Global Dynamics of Mass Incarceration
+### Black Masculinity Under Surveillance: Fanon, Anti-Blackness, and the Global Dynamics of Mass Incarceration
 
 <details>
 <summary>Abstract</summary>
@@ -53,7 +56,7 @@ This paper examines mass incarceration’s disproportionate impact on Black male
 
 </details>
 
-## Philosophies et langues africaines, une introduction
+### Philosophies et langues africaines, une introduction
 
 <details>
 <summary>Abstract</summary>
