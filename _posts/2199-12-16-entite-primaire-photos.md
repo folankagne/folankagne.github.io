@@ -1,6 +1,7 @@
 ---
 title: 'Entité Primaire - Fragments de voyages'
 date: 2199-12-16
+draft: true
 permalink: /posts/2199/12/entite-primaire-photos/
 tags:
   - photography
