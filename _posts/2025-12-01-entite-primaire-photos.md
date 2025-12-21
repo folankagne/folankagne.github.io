@@ -28,11 +28,13 @@ La ville se superpose à elle-même — temples et tours, néons et pins. On mar
 <img src="https://folankagne.github.io/photos/photos/section-1/original/OK_0467.jpg" alt="Seoul mosque" style="max-width: 100%;">
 </figure>
 
+<!--
 > Between the pines, the city breathes  
 > A mosque, a tower, a sunset bleeds  
 > Into the haze of neon signs —  
 > Seoul keeps its secrets in straight lines.
-
+ --> 
+ 
 <figure style="margin: 2rem 0; text-align: center;">
 <img src="https://folankagne.github.io/photos/photos/section-1/original/OK_0451.jpg" alt="Seoul park" style="max-width: 100%;">
 </figure>
@@ -71,10 +73,12 @@ La chaleur colle à la peau, le grain colle à l'image. Les temples dorés perce
   <img src="https://folankagne.github.io/photos/photos/section-2/original/OK_7A_0426.jpg" alt="Thailand mountains" style="max-width: 100%;">
 </figure>
 
+<!--
 > L'or des pagodes fond dans l'air moite,  
 > Les bouddhas sourient, impassibles,  
 > Tandis que le temps, à pas de velours,  
 > Efface les traces de nos détours.
+--> 
 
 <figure style="margin: 2rem 0; text-align: center;">
   <img src="https://folankagne.github.io/photos/photos/section-2/original/OK_15A_0418.jpg" alt="Thailand temple" style="max-width: 100%;">
