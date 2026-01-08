@@ -6,7 +6,7 @@ author_profile: true
 
 ## Econ-ish Work
 
-### Social Cooperation and Exclusion in Carceral Environments
+### Social Cooperation and Exclusion in Prisons
 
 <details>
 <summary>Abstract</summary>
