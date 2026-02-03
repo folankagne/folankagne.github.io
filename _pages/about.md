@@ -32,7 +32,7 @@ I am deeply interested in philosophy, psychology, sociology, literature, politic
 
 ## A few links to explore
 - Research (nothing here yet)
-- [Projects](/working-projects/)  
+- [Projects](/research/)  
 - [Marginalia](/year-archive/)  
 - [What I’m doing now](/now/)  
 - [CV](/cv/)  
