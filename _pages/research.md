@@ -1,8 +1,7 @@
 ---
-title: 
-layout: single
-classes: wide
 permalink: /research/
+title: ""
+author_profile: true
 ---
 <br/> 
 
@@ -62,7 +61,7 @@ Another abstract here.
 
 # Selected Work in Progress
 
-## Econ-ish
+## Econ[ish]
 
 **Social Cooperation and Exclusion in Prisons**. <br/>
 <small>[ <a href="#/" onclick="visib('prison-coop')">Abstract</a> ] </small>
@@ -102,7 +101,7 @@ Together, the works of Curry, Fanon, and Ajari provide a comprehensive philosoph
 <small>[ <a href="#/" onclick="visib('black-masc-surveillance')">Abstract</a> ] </small>
 
 <div id="black-masc-surveillance" style="display: none; text-align: justify; line-height: 1.2" ><small>
-This paper examines mass incarceration's disproportionate impact on Black males through a Fanonian lens, highlighting the persistence of colonial legacies in modern carceral systems. By comparing the U.S. and French prison systems, it exposes how systemic racism, racial capitalism, and the libidinal economy of anti-Blackness sustain the criminalization and dehumanization of Black men, emphasizing the need for decolonial approaches to justice.
+This paper argues that mass incarceration constitutes not merely a crisis of criminal justice but an ontological apparatus for the management of Black masculinity under racial capitalism. Drawing on Frantz Fanon's phenomenology of the phobogenic object, Loïc Wacquant's structural sociology of the carceral state, and Tommy J. Curry's theory of the "Man-Not," we trace the genealogy of the prison from chattel slavery through the neoliberal penal state, demonstrating that the hyper-incarceration of Black men represents the latest iteration in a centuries-long continuum of racialized control. Across phenomenological, socio-spatial, and actuarial registers, we mobilize Norman Ajari's "diagram of Negrophobia" to theorize mass incarceration as a forme-de-mort—an institution that simultaneously alienates, expropriates, and enacts a slow genocide against Black life. Against liberal reformism, which seeks to humanize an inherently dehumanizing structure, we argue that the only coherent political horizon is prison abolition and what Ajari terms Black Communism: a radical politics of dignity that refuses the ontological death sentence pronounced by the carceral state. The prison, we conclude, cannot be reformed; it must be rendered obsolete through the dismantling of the racial capitalist order that necessitates it.
 </small><br><br/></div>
 
 
