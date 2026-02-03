@@ -8,4 +8,4 @@ author_profile: true
 
 - Finishing early drafts of [working projects](/research/) (and plenty of [marginalia](/year-archive/)) on the philosophy of race and mass incarceration — always happy to discuss these ideas.  
 
-- Currently based in Paris — most likely at the Jourdan campus, in a library in the 5th, or scribbling notes in a PMU.  
+- Currently based in Paris — most likely at the Jourdan campus [R4-57], in a library in the 5th, or scribbling notes in a PMU.  
