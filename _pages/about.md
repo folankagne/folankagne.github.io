@@ -31,7 +31,8 @@ Previously, I completed a Master’s in Economics and Psychology at the Paris Sc
 I am deeply interested in philosophy, psychology, sociology, literature, political science, and the arts, with a particular passion for music [especially rap and jazz].  
 
 ## A few links to explore
-- Research (nothing here yet)
+<!-- - Research (nothing here yet)
+-->
 - [Projects](/research/)  
 - [Marginalia](/year-archive/)  
 - [What I’m doing now](/now/)  
