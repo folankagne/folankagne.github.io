@@ -22,7 +22,7 @@ Your abstract text goes here. This will be hidden by default and shown when clic
 </small><br><br/></div>
 
 [pub1]: https://doi.org/your-doi-link
-[wp1]: {{ site.baseurl }}{% link assets/files/your-working-paper.pdf %}
+[wp1]: /assets/files/your-working-paper.pdf
 
 - - -
 
@@ -43,7 +43,7 @@ Uncomment this section when you have working papers
 Your abstract text goes here. This will be hidden by default and shown when clicking "Abstract".
 </small><br><br/></div>
 
-[draft1]: {{ site.baseurl }}{% link assets/files/your-draft.pdf %}
+[draft1]: /assets/files/your-draft.pdf
 
 
 **Another Working Paper Title**. Year. *Revise and Resubmit at Journal Name*. <br/>
@@ -53,7 +53,7 @@ Your abstract text goes here. This will be hidden by default and shown when clic
 Another abstract here.
 </small><br><br/></div>
 
-[draft2]: {{ site.baseurl }}{% link assets/files/another-draft.pdf %}
+[draft2]: /assets/files/another-draft.pdf
 
 - - -
 
