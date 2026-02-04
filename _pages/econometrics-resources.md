@@ -97,7 +97,7 @@ A curated collection of resources for learning causal inference, econometrics, a
 ### Lecture Notes & Papers
 
 * [A Refresher on (Matrix Notation) Basic OLS Properties (NYU)](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
-* [A Crash Course in Good and Bad Controls (Judea Pearl)](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) — While economists are used to thinking about confounder bias, it's relatively rare to phrase potential threats to identification in terms of collider bias ("opening a backdoor"). Useful read.
+* [A Crash Course in Good and Bad Controls (Judea Pearl)](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf) <!--  — While economists are used to thinking about confounder bias, it's relatively rare to phrase potential threats to identification in terms of collider bias ("opening a backdoor"). Useful read. -->
 * [Weak IV – Lecture Notes (Jörn-Steffen Pischke, LSE)](https://econ.lse.ac.uk/staff/spischke/ec533/Weak%20IV.pdf)
 
 ### Blogs
@@ -124,7 +124,7 @@ A curated collection of resources for learning causal inference, econometrics, a
 
 ## Mathematics & Linear Algebra Refreshers
 
-* [Essence of Linear Algebra (3Blue1Brown)](https://youtu.be/fNk_zzaMoSs?si=TQWUk_HNgawuYmyy) — Useful if you're rusty with matrices (and frankly, beautiful on its own)
+* [Essence of Linear Algebra (3Blue1Brown)](https://youtu.be/fNk_zzaMoSs?si=TQWUk_HNgawuYmyy) <!-- — Useful if you're rusty with matrices (and frankly, beautiful on its own) --> 
 * [A Refresher on (Matrix Notation) Basic OLS Properties (NYU)](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
 
 ---
