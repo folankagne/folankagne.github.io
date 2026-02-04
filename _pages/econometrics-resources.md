@@ -1,3 +1,11 @@
+---
+layout: archive
+permalink: /econometrics-resources/
+title: ""
+author_profile: false
+---
+
+
 # Econometrics & Causal Inference Resources
 
 A curated collection of resources for learning causal inference, econometrics, and data analysis.
