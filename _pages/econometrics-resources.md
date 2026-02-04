@@ -163,4 +163,42 @@ A curated collection of resources for learning causal inference, econometrics, a
 
 ---
 
+## LaTeX & Academic Writing Tools
+
+Tools for creating figures, tables, and documents for academic papers.
+
+### Note-Taking & Knowledge Management
+
+* [Obsidian](https://obsidian.md/) — The "everything app" for researchers. Markdown-based, local-first note-taking with bidirectional linking, graph view, and a massive plugin ecosystem. Excellent for building a personal knowledge base (Zettelkasten), literature reviews, and connecting ideas across papers. Integrates well with Zotero via plugins. Free for personal use.
+
+**Open-source alternatives:**
+
+* [Logseq](https://logseq.com/) — Open-source, outliner-based knowledge management. Block-level linking and queries, built-in PDF annotation, and local-first storage. Strong for daily journaling workflows and task management alongside notes.
+
+* [Zettlr](https://www.zettlr.com/) — Open-source markdown editor designed specifically for academic writing. Built-in citation support (BibTeX/CSL-JSON), Zettelkasten features, and export to multiple formats. Lighter weight than Obsidian.
+
+* [Joplin](https://joplinapp.org/) — Open-source note-taking with end-to-end encryption and sync across devices. Markdown support, tagging, and notebook organization. Good if privacy and cross-platform sync are priorities.
+
+* [Foam](https://foambubble.github.io/foam/) — Open-source, VS Code-based personal knowledge management. If you already live in VS Code for coding, Foam brings Obsidian-like linking and graph visualization to your existing workflow.
+
+### Figure & Diagram Creation
+
+* [TikZiT](https://tikzit.github.io/) — Lightweight graphical editor for creating node-and-edge diagrams (graphs, string diagrams, game trees). Outputs clean, minimal TikZ code that integrates directly into LaTeX documents. Particularly useful for theoretical diagrams in economics.
+
+* [Mathcha](https://www.mathcha.io/) — Online visual equation and diagram editor with TikZ export. Intuitive interface for flowcharts, decision trees, and geometric figures. Good for quick prototyping before refining in LaTeX.
+
+* [DAGitty](https://www.dagitty.net/) — Browser-based environment for creating, editing, and analyzing causal diagrams (DAGs). Beyond drawing, it identifies adjustment sets, instrumental variables, and testable implications. Essential for applied causal inference work. Also available as an [R package](https://cran.r-project.org/web/packages/dagitty/) and pairs well with [ggdag](https://ggdag.malco.io/) for ggplot2-style visualization.
+
+### Writing & Collaboration
+
+* [Overleaf](https://www.overleaf.com/) — Online LaTeX editor with real-time collaboration, version history, and templates. Standard tool for co-authored papers. Integrates with Git for local editing.
+
+### Live Preview Editors
+
+* [TeXstudio](https://www.texstudio.org/) — Full-featured LaTeX IDE with integrated PDF viewer, auto-completion, and syntax highlighting. Good for local editing.
+
+* [ktikz / qtikz](https://github.com/fhackenberger/ktikz) — Live-preview TikZ editors. Not drag-and-drop, but instant visual feedback makes iterating on figures much faster.
+
+---
+
 *Last updated: February 2026*
