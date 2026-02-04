@@ -114,7 +114,7 @@ A curated collection of resources for learning causal inference, econometrics, a
 
 * [Martin Huber](https://twitter.com/CausalHuber)
 * [Nick Huntington-Klein](https://twitter.com/nickchk)
-* [Sylvain Chabé-Ferret](https://x.com/SylvainCF))
+* [Sylvain Chabé-Ferret](https://x.com/SylvainCF)
 
 ### EconTwitter (Mastodon)
 
