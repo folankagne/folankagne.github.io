@@ -16,7 +16,7 @@ A [non-exhaustive] collection of resources for learning causal inference, econom
 
 ## Comprehensive Resource Lists
 
-* [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2022)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) [Carré dans l'axe — s/o Christine Cai]
+* [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2025)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) [Carré dans l'axe — s/o Christine Cai]
 * [Collection of lecture notes, videos, papers, workshops, etc. (Asjad Naqvi)](https://asjadnaqvi.github.io/DiD/docs/resources#books)
 
 ---
