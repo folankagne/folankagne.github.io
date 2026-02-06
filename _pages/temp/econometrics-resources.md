@@ -8,7 +8,7 @@ author_profile: false
 
 # Econometrics & Causal Inference Resources
 
-A curated collection of resources for learning causal inference, econometrics, and data analysis.
+A [non-exhaustive] collection of resources for learning causal inference, econometrics, and data analysis.
 
 > **Attribution:** Many of these resources were compiled from [Anna Stavniychuk's Econometrics Library](https://github.com/annastavniychuk/econometrics_library), an excellent repository that also includes extensive Russian-language materials for those interested. The detailed reading list on specific methods is available [here](https://github.com/annastavniychuk/econometrics_library/blob/main/reading_list.md).
 
