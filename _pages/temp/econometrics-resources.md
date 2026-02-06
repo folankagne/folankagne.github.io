@@ -51,13 +51,13 @@ A curated collection of resources for learning causal inference, econometrics, a
 * [The Effect: Econometrics, Causality, and Coding with Dr. HK (Nick Huntington-Klein)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
 * [Econometrics, Causality, and Coding with Dr. HK (Nick Huntington-Klein)](https://www.youtube.com/c/NickHuntingtonKlein/featured)
 * [Causal Inference – Online Lectures, M.Sc/PhD Level (Ben Elsner)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
-* [Graduate Econometrics Course (Ben Lambert)](https://youtu.be/GMVh02WGhoc?si=K744zbL1Ojloh1XR) — Useful to revise specific topics
+* [Graduate Econometrics Course (Ben Lambert)](https://youtu.be/GMVh02WGhoc?si=K744zbL1Ojloh1XR) [Carré dans l'axe] <!-- — Useful to revise specific topics -->
 * [Visualization, Identification, and Estimation in the Linear Panel Event-Study Design (Jesse Shapiro, Christian Hansen)](https://www.youtube.com/watch?v=hOIB3PwntYg&list=PLg-LvQ_7SfMD9d8kbSd_Ig_HB-5h6HCTx)
 * [Applied Methods PhD Course (Paul Goldsmith-Pinkham, 2021)](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)
 * [DiD Reading Group (Taylor Wright)](https://www.youtube.com/watch?v=m1xSMNTKoMs&list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) and [Other DiD Seminars](https://www.youtube.com/watch?v=l1FLtTcpch0&list=PLVObvb_htcuBSnO_hDKePOhS7yUZbILN3)
 * [Introduction to Econometrics (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ480/)
 * [Topics in Econometric Theory (Ivan A. Canay, 2021)](https://sites.northwestern.edu/iac879/teaching/e-lectures-econ481/)
-* [Doubly Robust Estimation of Treatment Effects with Machine Learning Methods](https://www.youtube.com/watch?v=IfZHUFFlsGc&t=382s) — Useful for understanding these methods more in depth
+* [Doubly Robust Estimation of Treatment Effects with Machine Learning Methods](https://www.youtube.com/watch?v=IfZHUFFlsGc&t=382s) <!-- — Useful for understanding these methods more in depth -->
 * [NBER SI 2024 Methods Lecture: New Developments in Experimental Design and Analysis](https://www.nber.org/conferences/si-2024-methods-lecture-new-developments-experimental-design-and-analysis)
   * Analysis and Design of Multi-Armed Bandit Experiments and Policy Learning (Susan Athey)
   * Interference and Spillovers in Randomized Experiments (Guido Imbens)
@@ -187,7 +187,7 @@ Tools for creating figures, tables, and documents for academic papers.
 
 * [Mathcha](https://www.mathcha.io/) — Online visual equation and diagram editor with TikZ export. Intuitive interface for flowcharts, decision trees, and geometric figures. Good for quick prototyping before refining in LaTeX.
 
-* [DAGitty](https://www.dagitty.net/) — Browser-based environment for creating, editing, and analyzing causal diagrams (DAGs). Beyond drawing, it identifies adjustment sets, instrumental variables, and testable implications. Essential for applied causal inference work. Also available as an [R package](https://cran.r-project.org/web/packages/dagitty/) and pairs well with [ggdag](https://ggdag.malco.io/) for ggplot2-style visualization.
+* [DAGitty](https://www.dagitty.net/) — Browser-based environment for creating, editing, and analyzing causal diagrams (DAGs). Beyond drawing, it identifies adjustment sets, instrumental variables, and testable implications. Essential for applied causal inference work. Also available as an [R package](https://cran.r-project.org/web/packages/dagitty/) and pairs well with [ggdag](https://r-causal.github.io/ggdag/) for ggplot2-style visualization.
 
 ### Writing & Collaboration
 
