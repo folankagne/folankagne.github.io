@@ -51,7 +51,7 @@ A curated collection of resources for learning causal inference, econometrics, a
 * [The Effect: Econometrics, Causality, and Coding with Dr. HK (Nick Huntington-Klein)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
 * [Econometrics, Causality, and Coding with Dr. HK (Nick Huntington-Klein)](https://www.youtube.com/c/NickHuntingtonKlein/featured)
 * [Causal Inference – Online Lectures, M.Sc/PhD Level (Ben Elsner)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
-* [Graduate Econometrics Course (Ben Lambert)](https://youtu.be/GMVh02WGhoc?si=K744zbL1Ojloh1XR) [Carré dans l'axe] <!-- — Useful to revise specific topics -->
+* [Graduate Econometrics Course (Ben Lambert)](https://youtu.be/GMVh02WGhoc?si=K744zbL1Ojloh1XR) [Carré dans l'axe ++] <!-- — Useful to revise specific topics -->
 * [Visualization, Identification, and Estimation in the Linear Panel Event-Study Design (Jesse Shapiro, Christian Hansen)](https://www.youtube.com/watch?v=hOIB3PwntYg&list=PLg-LvQ_7SfMD9d8kbSd_Ig_HB-5h6HCTx)
 * [Applied Methods PhD Course (Paul Goldsmith-Pinkham, 2021)](https://www.youtube.com/playlist?list=PLWWcL1M3lLlojLTSVf2gGYQ_9TlPyPbiJ)
 * [DiD Reading Group (Taylor Wright)](https://www.youtube.com/watch?v=m1xSMNTKoMs&list=PLVObvb_htcuBt8mV9yNagt7hK9FL5KXeE) and [Other DiD Seminars](https://www.youtube.com/watch?v=l1FLtTcpch0&list=PLVObvb_htcuBSnO_hDKePOhS7yUZbILN3)
