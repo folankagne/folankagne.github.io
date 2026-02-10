@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can find the PDF of my latest CV [here](/files/CV_KagnéFolan_February2026.pdf).
+You can find the PDF of my latest CV [here](/files/CV_KagnéFolan_February2026.pdf).
 
 {% include base_path %}
 
