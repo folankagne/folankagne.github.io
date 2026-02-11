@@ -144,6 +144,7 @@ Free online textbooks and standard references for econometric theory.
 
 * [Lecture Notes in Microeconometrics (Kurt Schmidheiny)](https://www.schmidheiny.name/teaching/shortguides.htm) [Carré dans l'axe ++] — Concise, self-contained short guides covering core microeconometric topics. Excellent quick-reference material.
 * [Graduate Econometrics Lecture Notes (Matteo Courthoud)](https://matteocourthoud.github.io/course/metrics/) — Comprehensive notes originally from the PhD Econometrics course of Damian Kozbur (Zurich).
+* [Machine Learning for Economics (Matteo Courthoud)](https://matteocourthoud.github.io/course/ml-econ/) — Notes from Damian Kozbur's ML for Economic Analysis course (Zurich). Python/Jupyter-based exercises drawing from *An Introduction to Statistical Learning* and *Elements of Statistical Learning*.
 * [Econometrics and Statistics (Jean-Paul Renne)](https://jrenne.github.io/EcoStat/index.html) — Covers linear regression, discrete-choice models, and introduction to time series analysis, with R-based examples and simulations.
 * [Econometricks: Short Guides to Econometrics (Davud Rostam-Afschar, Universität Mannheim)](https://github.com/listoflistoflist/econometricks) — Concise guides with tricks and tips covering probability theory, specific distributions, the least squares estimator, Frisch-Waugh-Lovell, MLE, and GMM.
 
