@@ -143,7 +143,7 @@ Free online textbooks and standard references for econometric theory.
 ### Lecture Notes & Courses
 
 * [Lecture Notes in Microeconometrics (Kurt Schmidheiny)](https://www.schmidheiny.name/teaching/shortguides.htm) [Carré dans l'axe ++] — Concise, self-contained short guides covering core microeconometric topics. Excellent quick-reference material.
-* [Graduate Econometrics Lecture Notes (Matteo Courthoud)](https://matteocourthoud.github.io/course/metrics/) — Comprehensive notes originally from the PhD Econometrics course of Damian Kozbur (Zurich), developed with Chiara Aina and Paolo Mengano. Includes Julia code examples.
+* [Graduate Econometrics Lecture Notes (Matteo Courthoud)](https://matteocourthoud.github.io/course/metrics/) — Comprehensive notes originally from the PhD Econometrics course of Damian Kozbur (Zurich).
 * [Econometrics and Statistics (Jean-Paul Renne)](https://jrenne.github.io/EcoStat/index.html) — Covers linear regression, discrete-choice models, and introduction to time series analysis, with R-based examples and simulations.
 * [Econometricks: Short Guides to Econometrics (Davud Rostam-Afschar, Universität Mannheim)](https://github.com/listoflistoflist/econometricks) — Concise guides with tricks and tips covering probability theory, specific distributions, the least squares estimator, Frisch-Waugh-Lovell, MLE, and GMM.
 
@@ -158,7 +158,6 @@ Free online textbooks and standard references for econometric theory.
 * [Essence of Linear Algebra (3Blue1Brown)](https://youtu.be/fNk_zzaMoSs?si=TQWUk_HNgawuYmyy) <!-- — Useful if you're rusty with matrices (and frankly, beautiful on its own) --> 
 * [Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik)](https://www.probabilitycourse.com/) <!-- — Free online textbook covering probability foundations, common distributions, and random processes. Good refresher for the statistical theory underlying econometrics. -->
 * [A Refresher on (Matrix Notation) Basic OLS Properties (NYU)](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
-* 
 * [Pr∞fWiki](https://proofwiki.org/)
 ---
 
