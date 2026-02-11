@@ -159,7 +159,8 @@ Free online textbooks and standard references for econometric theory.
 * [Essence of Linear Algebra (3Blue1Brown)](https://youtu.be/fNk_zzaMoSs?si=TQWUk_HNgawuYmyy) <!-- — Useful if you're rusty with matrices (and frankly, beautiful on its own) --> 
 * [Introduction to Probability, Statistics, and Random Processes (Hossein Pishro-Nik)](https://www.probabilitycourse.com/) <!-- — Free online textbook covering probability foundations, common distributions, and random processes. Good refresher for the statistical theory underlying econometrics. -->
 * [A Refresher on (Matrix Notation) Basic OLS Properties (NYU)](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf)
-* [ProofWiki](https://proofwiki.org/)
+* [ProofWiki](https://proofwiki.org/wiki/Main_Page)
+
 ---
 
 ## Python for Data Analysis & Econometrics
