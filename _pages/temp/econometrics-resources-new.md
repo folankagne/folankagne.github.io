@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /econometrics-resources-new/
+permalink: /econometrics-resources/
 title: ""
 author_profile: false
 ---
