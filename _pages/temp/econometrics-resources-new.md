@@ -16,7 +16,8 @@ A [non-exhaustive] collection of resources for learning causal inference, econom
 
 ## Comprehensive Resource Lists
 
-* [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2025)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) [Carré dans l'axe — s/o Christine Cai]
+<!--  * [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2025)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) [Carré dans l'axe — s/o Christine Cai] -->
+* [Literature on Recent Advances in Applied Micro Methods (Christine Cai, 2025)](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf) — Part of her broader [Public Goods page](https://christinecai.github.io/items/PublicGoods.html), which also collects links to PhD field course materials, coding guides (Stata, R, Python, LaTeX), cross-language translation resources, and career advice from pre-grad school through tenure track [Carré dans l'axe — s/o Christine Cai].
 * ['Metrics Notes (Peter Hull)](https://about.peterhull.net/metrix) <!-- — Collection of lecture slides (undergraduate and graduate applied econometrics), short notes, and threads covering design-based econometrics, IV, DiD, RD, shift-share, clustering, and more [OG] --> — Collection of lecture slides (undergraduate and graduate applied econometrics) [OG].
 * [Collection of lecture notes, videos, papers, workshops, etc. (Asjad Naqvi)](https://asjadnaqvi.github.io/DiD/docs/resources#books)
 
