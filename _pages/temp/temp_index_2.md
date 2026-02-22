@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: 
 permalink: /temporary/home/
 title: ""
 author_profile: false
