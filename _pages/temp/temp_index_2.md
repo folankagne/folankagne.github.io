@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: temporary/home
+permalink: /temporary/home/
 title: ""
 author_profile: false
 ---
