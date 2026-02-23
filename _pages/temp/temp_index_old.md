@@ -1,6 +1,6 @@
 ---
 layout: 
-permalink: /temporary/home/
+permalink: /temporary/home_old/
 title: ""
 author_profile: false
 ---
