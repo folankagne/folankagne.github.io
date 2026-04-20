@@ -100,7 +100,6 @@ Together, the works of Curry, Fanon, and Ajari provide a comprehensive philosoph
 
 
 **Black Masculinity Under Surveillance: Fanon, Anti-Blackness, and the Global Dynamics of Mass Incarceration**. <br/>
-
 <small>[ <a href="#/" onclick="visib('black-masc-surveillance')">Abstract</a> ] </small>
 
 <div id="black-masc-surveillance" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -110,7 +109,6 @@ This paper argues that mass incarceration constitutes not merely a crisis of cri
 
 
 **Philosophies et langues africaines, une introduction**. <br/>
-
 <small>[ <a href="#/" onclick="visib('philo-langues-afr')">Abstract</a> ] </small>
 
 <div id="philo-langues-afr" style="display: none; text-align: justify; line-height: 1.2" ><small>
