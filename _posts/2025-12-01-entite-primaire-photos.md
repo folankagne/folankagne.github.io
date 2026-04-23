@@ -2,6 +2,7 @@
 title: 'Entité Primaire - Fragments de voyages'
 date: 2025-12-01
 draft: true
+published: false
 permalink: /posts/2025/12/entite-primaire-photos/
 tags:
   - photography
