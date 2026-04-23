@@ -1,9 +1,9 @@
 {% assign locale = include.locale | default: site.locale %}
+{% assign posts = include.posts | where_exp: "post", "post.hidden != true" | where_exp: "post", "post.draft != true" %}
 <div class="page__related">
   <h2 class="page__related-title">{{ site.data.ui-text[locale].related_label | default: "You May Also Enjoy" }}</h2>
   <div class="grid__wrapper">
-    {% assign filtered_related = site.related_posts | where_exp: "post", "post.draft != true" %}
-    {% for post in filtered_related limit:4 %}
+    {% for post in posts limit:4 %}
       {% include archive-single.html type="grid" %}
     {% endfor %}
   </div>
